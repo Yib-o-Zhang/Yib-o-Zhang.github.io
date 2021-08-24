@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://Yib-o-Zhang.github.io/sitemap.xml
